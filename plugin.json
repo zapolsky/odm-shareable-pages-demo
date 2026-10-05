@@ -1,0 +1,8 @@
+{
+  "name": "Team Playbooks",
+  "description": "Short how-to pages your team can link to.",
+  "delivery": {
+    "type": "remote",
+    "url": "https://zapolsky.github.io/odm-shareable-pages-demo/"
+  }
+}
